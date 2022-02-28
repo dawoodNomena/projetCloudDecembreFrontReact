@@ -3,7 +3,7 @@
   "name": "my-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://front-projetclouddecembre.herokuapp.com/",
+  "homepage": "http://front-projetclouddecembre.herokuapp.com/",
   "engines": {
     "npm": "6.14.14",
     "node": "14.17.4"
