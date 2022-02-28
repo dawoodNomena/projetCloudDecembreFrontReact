@@ -1,7 +1,7 @@
 import axios from "axios";
 import { Redirect } from 'react-router-dom'
 
-const API_URL = "https://front-projetclouddecembre.herokuapp.com/api/auth/";
+const API_URL = "https://projet-clouddecembre.herokuapp.com/api/auth/";
 
 class AuthService {
   login(username, password) {
